@@ -1,0 +1,21 @@
+[
+    "index.md",
+    "rationale.md",
+    [
+        "python-division-there-s-1-way-to-do-it.md",
+        "will-it-truncate.md",
+        "modulus.md",
+        "divmod.md",
+        "forcing-it.md"
+    ],
+    [
+        "division-surprises.md",
+        "simplified-expression.md",
+        "wtf.md",
+        "a-bit-of-math.md",
+        "division-with-negatives.md"
+    ],
+    "pathological-examples.md",
+    "guidelines.md",
+    "references.md"
+]
